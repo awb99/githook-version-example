@@ -10,6 +10,8 @@ namespace GithookVersioningExample
 {
     class Program
     {
+    	// test
+    	
         static void Main(string[] args)
         {
             var assembly = Assembly.GetAssembly(typeof (Program));
