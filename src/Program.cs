@@ -10,7 +10,7 @@ namespace GithookVersioningExample
 {
     class Program
     {
-    	// test
+    	// test 2
     	
         static void Main(string[] args)
         {
